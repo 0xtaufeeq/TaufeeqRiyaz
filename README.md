@@ -1,26 +1,53 @@
-
-# Hi, I’m Taufeeq Riyaz
-
-A brief description of my profile
+# Hey, I'm [Taufeeq Riyaz][website] 👋
 
 
 ## 🚀 About Me
+
 - 👋 Hi, I’m @TaufeeqRiyaz
+ 
 - 👀 I’m interested in Discord Bots and Web development
+
 - 🌱 I’m currently learning Python and C++
+
 - 📫 Reach me at contact@taufeeq.team
-
   
-## 🛠 Skills
-Pyhton, HTML, C++
 
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taufeeq.team/)
+### Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufeeq/)
 
-  
-# Working on Astro Bot
-![Logo](https://repository-images.githubusercontent.com/377766344/04500516-acd9-48a6-9508-ba0154877f18)
 
-    
+###  :zap: GitHub Stats
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taufeeqriyaz" alt="taufeeqriyaz" /></a> </p>  
+  
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://linkedin.com/in/taufeeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taufeeq" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/16164323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16164323" height="30" width="40" /></a>  
+<a href="https://instagram.com/taufeeq_riyaz_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taufeeq_riyaz_official" height="30" width="40" /></a>  
+<a href="https://discord.gg/pjVkWtEc9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pjVkWtEc9p" height="30" width="40" /></a>  
+</p>  
+  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>  
+ <br>
+ 
+ ### :zap: GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact" alt="taufeeqriyaz" /></p>  
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeqriyaz&show_icons=true&locale=en" alt="taufeeqriyaz" /></p>  
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taufeeqriyaz&" alt="taufeeqriyaz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taufeeqriyaz&label=Profile%20views&color=0e75b6&style=flat" alt="taufeeqriyaz" /> </p> 
+
+
+
+---
+[website]: https://taufeeq.team
+
+[twitter]: https://twitter.com/taufeeq_riyaz
+
+[instagram]: https://instagram.com/taufeeq_riyaz_official
+
+[linkedin]: https://linkedin.com/in/taufeeq
