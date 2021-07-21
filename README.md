@@ -42,7 +42,7 @@
 
 
 ---
-[website]: https://taufeeq.team
+[website]: http://taufeeq.team
 
 [twitter]: https://twitter.com/taufeeq_riyaz
 
