@@ -33,7 +33,7 @@
  ### :zap: GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact" alt="taufeeqriyaz" /></p>  
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeqriyaz&show_icons=true&locale=en" alt="taufeeqriyaz" /></p>  
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taufeeqriyaz&" alt="taufeeqriyaz" /></p>
 
