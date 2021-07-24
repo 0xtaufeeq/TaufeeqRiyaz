@@ -31,6 +31,10 @@
  <br>
  
  ### :zap: GitHub Stats
+ 
+[![Taufeeq's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaufeeqRiyaz&theme=react-dark)](https://github.com/TaufeeqRiyaz/github-readme-activity-graph)
+
+ 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact" alt="taufeeqriyaz" /></p>  
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeqriyaz&show_icons=true&locale=en" alt="taufeeqriyaz" /></p>  
