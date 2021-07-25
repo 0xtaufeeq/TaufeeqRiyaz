@@ -32,7 +32,7 @@
  
  ### :zap: GitHub Stats
  
-[![Taufeeq's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaufeeqRiyaz&theme=react-dark)](https://github.com/TaufeeqRiyaz/github-readme-activity-graph)
+[![Taufeeq's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaufeeqRiyaz&theme=react-dark)](https://github.com/TaufeeqRiyaz?tab=repositories)
 
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact" alt="taufeeqriyaz" /></p>  
