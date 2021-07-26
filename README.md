@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- 👋 Hi, I’m @TaufeeqRiyaz
+- 👋 Hi, I’m Taufeeq Riyaz
  
 - 👀 I’m interested in Discord Bots and Web development
 
