@@ -12,10 +12,6 @@
 - 📫 Reach me at contact@taufeeq.team
   
 
-### Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufeeq/)
-
-
   
   
 <h3 align="left">Connect with me:</h3>  
