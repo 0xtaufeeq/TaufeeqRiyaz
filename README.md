@@ -31,7 +31,7 @@
 [![Taufeeq's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaufeeqRiyaz&theme=react-dark)](https://github.com/TaufeeqRiyaz?tab=repositories)
 
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="taufeeqriyaz" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&theme=tokyonight" alt="taufeeqriyaz" /></p>  
 <br>
