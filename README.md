@@ -32,8 +32,7 @@
 
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
-Stats of my public repositories -
-<br>
+Stats of my public repositories -<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&theme=tokyonight" alt="taufeeqriyaz" /></p>  
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TaufeeqRiyaz&theme=tokyonight" alt="taufeeqriyaz" /></p>
