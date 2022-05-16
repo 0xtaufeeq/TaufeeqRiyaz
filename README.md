@@ -49,18 +49,20 @@
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>  
  <br>
  
- ### :zap: GitHub Stats
+ <h3 align="center" color="F85D7F">:zap: GitHub Stats -</h3>
  
-[![Taufeeq's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaufeeqRiyaz&theme=react-dark)](https://github.com/TaufeeqRiyaz?tab=repositories)
+ 
+[![Taufeeq's github activity graph](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TaufeeqRiyaz&bg_color=1F222E&color=B37FFF&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/TaufeeqRiyaz?tab=repositories)
+ <h4 align="center" color="F85D7F">Stats of my public repositories -</h4>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&bg_color=1F222E&title_color=F85D7F&text_color=B37FFF&icon_color=F85D7F" alt="taufeeqriyaz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TaufeeqRiyaz&theme=tokyonight" alt="taufeeqriyaz" /></p>
 
-Most used languages don't represent my top skills :D 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
-Stats of my public repositories -<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&theme=tokyonight" alt="taufeeqriyaz" /></p>  
+<h5 align="center" color="F85D7F">Most used languages don't represent my top skills</h5>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TaufeeqRiyaz&theme=tokyonight" alt="taufeeqriyaz" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taufeeqriyaz&label=Profile%20views&color=0e9fb6&style=flat" alt="taufeeqriyaz" /> </p> 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=taufeeqriyaz&label=Profile%20views&color=B37FFF&style=flat" alt="taufeeqriyaz" /></p> 
 
 
 
