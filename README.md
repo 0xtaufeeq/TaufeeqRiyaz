@@ -57,9 +57,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&bg_color=1F222E&title_color=F85D7F&text_color=B37FFF&icon_color=F85D7F" alt="taufeeqriyaz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TaufeeqRiyaz&theme=tokyonight" alt="taufeeqriyaz" /></p>
 
-<h5 align="center" color="F85D7F">*most used languages don't represent my top skills :)</h5>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
-<br>
+<h5 align="center" color="F85D7F">*most used languages don't represent my top skills :)</h5><br>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taufeeqriyaz&label=Profile%20views&color=B37FFF&style=flat" alt="taufeeqriyaz" /></p> 
