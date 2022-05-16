@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://taufeeq.team"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Taufeeq;welcome+to+my+profile;I+make+websites+and+stuff;you+can+call+me+astro"></a>
+  <a href="https://taufeeq.team" target=_blank><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Taufeeq;welcome+to+my+profile;I+make+websites+and+stuff;you+can+call+me+astro"></a>
 </p>
 
 
