@@ -29,7 +29,7 @@
  
 [![Taufeeq's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaufeeqRiyaz&theme=react-dark)](https://github.com/TaufeeqRiyaz?tab=repositories)
 
- Top languages doesn't represent my top skills :D 
+Most used languages don't represent my top skills :D 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
 Stats of my public repositories -<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&theme=tokyonight" alt="taufeeqriyaz" /></p>  
