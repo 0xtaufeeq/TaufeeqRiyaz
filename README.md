@@ -62,8 +62,18 @@
 <h5 align="center" color="F85D7F">*most used languages don't represent my top skills :)</h5><br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=taufeeqriyaz&label=Profile%20views&color=B37FFF&style=flat" alt="taufeeqriyaz" /></p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=taufeeqriyaz&label=Profile%20views&color=B37FFF&style=flat" alt="taufeeqriyaz" /></p>
 
+
+
+
+<h5 align="center" color="F85D7F">If you made it till here, then here's a meme to make you smile.<br> if that didn't make you smile, then give another go by refreshing the page.</h5><br>
+
+ <p align="center">
+    <img height="500px" src='https://random-memer.herokuapp.com/' alt="Please refresh the page if the meme doesn't show up.">
+ </p>
+
+<h5 align="center" color="F85D7F">Thank you for visiting my profile, have a gooood dayy! :)</h5>
 
 
 ---
