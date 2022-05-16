@@ -55,10 +55,10 @@
 [![Taufeeq's github activity graph](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TaufeeqRiyaz&bg_color=1F222E&color=B37FFF&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/TaufeeqRiyaz?tab=repositories)
  <h4 align="center" color="F85D7F">Stats of my public repositories -</h4>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&show_icons=true&count_private=true&bg_color=1F222E&title_color=B37FFF&text_color=FFFFFF&icon_color=F85D7F" alt="taufeeqriyaz" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TaufeeqRiyaz&theme=tokyonight" alt="taufeeqriyaz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TaufeeqRiyaz&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&currStreakNum=B37FFF&sideNums=B37FFF&ring=F85D7F&fire=F85D7F" alt="taufeeqriyaz" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufeeqriyaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="taufeeqriyaz" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqRiyaz&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F8D866" alt="taufeeqriyaz" /></p>  
 <h5 align="center" color="F85D7F">*most used languages don't represent my top skills :)</h5><br>
 
 
