@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://taufeeq.team"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Taufeeq;welcome+to+my+profile;I+make+websites+and+stuff;you+can+call+me+astro"></a>
+  <a href="https://taufeeq.ml"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Taufeeq;welcome+to+my+profile;I+make+websites+and+stuff;you+can+call+me+astro"></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 
 🌱 I’m currently learning Python and C++
 
-📫 Reach me at <a color="F85D7F" href="mailto:contact@taufeeq.team">contact@taufeeq.team<a> <h4>
+📫 Reach me at <a color="F85D7F" href="mailto:contact@taufeeq.ml">contact@taufeeq.ml<a> <h4>
   
 
   
@@ -27,10 +27,10 @@
 <h3 align="center" color="F85D7F">Connect with me -</h3>
 
 <p align="center">  
-<a href="https://linkedin.com/in/taufeeq" target="blank"><img align="center" src="https://taufeeq.team/Assets/linkedin.svg" alt="taufeeq" height="30" width="40" /></a>  
-<a href="https://discord.gg/pjVkWtEc9p" target="blank"><img align="center" src="https://taufeeq.team/Assets/twitter.svg" alt="pjVkWtEc9p" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16164323" target="blank"><img align="center" src="https://taufeeq.team/Assets/stackoverflow.svg" alt="16164323" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/tg7tcpb9vx8ybk4j4dk7a24wp" target="blank"><img align="center" src="https://taufeeq.team/Assets/spotify.svg" alt="16164323" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/taufeeq" target="blank"><img align="center" src="https://taufeeq.ml/Assets/linkedin.svg" alt="taufeeq" height="30" width="40" /></a>  
+<a href="https://discord.gg/pjVkWtEc9p" target="blank"><img align="center" src="https://taufeeq.ml/Assets/twitter.svg" alt="pjVkWtEc9p" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16164323" target="blank"><img align="center" src="https://taufeeq.ml/Assets/stackoverflow.svg" alt="16164323" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/tg7tcpb9vx8ybk4j4dk7a24wp" target="blank"><img align="center" src="https://taufeeq.ml/Assets/spotify.svg" alt="16164323" height="30" width="40" /></a> 
 </p>  
 
 <h2 align="center" color="F85D7F"> My top open source projects -
@@ -46,7 +46,7 @@
 
   
 <h3 align="center" color="F85D7F">Languages and Tools -</h3>  
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://taufeeq.team/Assets/azure.svg" alt="azure" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank"> <img src="https://taufeeq.team/Assets/gcp.svg" alt="gcp" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://taufeeq.team/Assets/heroku.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://taufeeq.team/Assets/ps.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.lightroom.com/en" target="_blank"> <img src="https://taufeeq.team/Assets/lr.svg" alt="lightroom" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://taufeeq.team/Assets/xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://taufeeq.team/Assets/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://taufeeq.team/Assets/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://taufeeq.team/Assets/css.svg" alt="css3" width="40" height="40"/> </a><br> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://taufeeq.team/Assets/bash.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://taufeeq.team/Assets/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://taufeeq.team/Assets/flutter.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://taufeeq.team/Assets/figma.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://taufeeq.team/Assets/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://taufeeq.team/Assets/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://taufeeq.team/Assets/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.kali.org/" target="_blank"> <img src="https://taufeeq.team/Assets/kali.svg" alt="linux" width="40" height="40"/> </a></p>  
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://taufeeq.ml/Assets/azure.svg" alt="azure" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank"> <img src="https://taufeeq.ml/Assets/gcp.svg" alt="gcp" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://taufeeq.ml/Assets/heroku.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://taufeeq.ml/Assets/ps.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.lightroom.com/en" target="_blank"> <img src="https://taufeeq.ml/Assets/lr.svg" alt="lightroom" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://taufeeq.ml/Assets/xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://taufeeq.ml/Assets/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://taufeeq.ml/Assets/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://taufeeq.ml/Assets/css.svg" alt="css3" width="40" height="40"/> </a><br> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://taufeeq.ml/Assets/bash.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://taufeeq.ml/Assets/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://taufeeq.ml/Assets/flutter.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://taufeeq.ml/Assets/figma.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://taufeeq.ml/Assets/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://taufeeq.ml/Assets/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://taufeeq.ml/Assets/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.kali.org/" target="_blank"> <img src="https://taufeeq.ml/Assets/kali.svg" alt="linux" width="40" height="40"/> </a></p>  
  <br>
  
  <h3 align="center" color="F85D7F">:zap: GitHub Stats -</h3>
@@ -77,7 +77,7 @@
 
 
 ---
-[website]: http://taufeeq.team
+[website]: http://taufeeq.ml
 
 [twitter]: https://twitter.com/taufeeq_riyaz
 
