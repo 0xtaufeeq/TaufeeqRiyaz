@@ -28,7 +28,7 @@
 
 <p align="center">  
 <a href="https://linkedin.com/in/taufeeq" target="blank"><img align="center" src="https://taufeeq.ml/Assets/linkedin.svg" alt="taufeeq" height="30" width="40" /></a>  
-<a href="https://discord.gg/pjVkWtEc9p" target="blank"><img align="center" src="https://taufeeq.ml/Assets/twitter.svg" alt="pjVkWtEc9p" height="30" width="40" /></a>
+<a href="https://twitter.com/taufeeq_riyaz" target="blank"><img align="center" src="https://taufeeq.ml/Assets/twitter.svg" alt="pjVkWtEc9p" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16164323" target="blank"><img align="center" src="https://taufeeq.ml/Assets/stackoverflow.svg" alt="16164323" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/tg7tcpb9vx8ybk4j4dk7a24wp" target="blank"><img align="center" src="https://taufeeq.ml/Assets/spotify.svg" alt="16164323" height="30" width="40" /></a> 
 </p>  
