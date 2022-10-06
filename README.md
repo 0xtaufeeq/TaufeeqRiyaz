@@ -17,7 +17,7 @@
 
 👀 I’m interested in Discord Bots and Web development
 
-🌱 I’m currently learning Python and C++
+🌱 I’m currently learning Python, Fortran and C
 
 📫 Reach me at <a color="F85D7F" href="mailto:contact@taufeeq.ml">contact@taufeeq.ml<a> <h4>
   
