@@ -1,3 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Space+Grotesk" rel="stylesheet">
+<style> 
+body {
+    font-family: "Space Grotesk", sans-serif;
+}
+</style>
 <br>
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
