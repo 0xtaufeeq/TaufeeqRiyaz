@@ -22,7 +22,9 @@
 📫 Reach me at <a color="F85D7F" href="mailto:contact@taufeeq.ml">contact@taufeeq.ml<a> <h4>
  
  ### <h2 align="center" color="F85D7F">🎵 Currently Listening To -</h2>
+ <p align="center">
  <a href="https://open.spotify.com/user/tg7tcpb9vx8ybk4j4dk7a24wp"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tg7tcpb9vx8ybk4j4dk7a24wp&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></a>
+ </p>
   
   
 <h3 align="center" color="F85D7F">Connect with me -</h3>
