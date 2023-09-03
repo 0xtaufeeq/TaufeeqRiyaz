@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://taufeeq.ml"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Taufeeq;welcome+to+my+profile;I+make+websites+and+stuff;you+can+call+me+astro"></a>
+  <a href="https://taufeeq.ml"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Taufeeq;welcome+to+my+profile;I+make+websites+and+bots;you+can+call+me+astro"></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 
 🌱 I’m currently learning Python, Fortran and C
 
-📫 Reach me at <a color="F85D7F" href="mailto:contact@taufeeq.ml">contact@taufeeq.ml<a> <h4>
+📫 Reach me at <a color="F85D7F" href="mailto:contact@taufeeq.ml">taufeeq@tenacity.social<a> <h4>
  
  ### <h2 align="center" color="F85D7F">🎵 Currently Listening To -</h2>
  <p align="center">
