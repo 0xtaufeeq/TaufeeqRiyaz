@@ -24,6 +24,7 @@
 <a href='https://github.com/taufeeqriyaz/'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz)
+<br><br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqRiyaz)
 
 </a>
