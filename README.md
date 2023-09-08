@@ -23,8 +23,8 @@
 ### 📊 Github Stats
 <a href='https://github.com/taufeeqriyaz/'>
   
-![Stats Overview](https://raw.githubusercontent.com/taufeeqriyaz/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/taufeeqriyaz/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqRiyaz)
 
 </a>
 
