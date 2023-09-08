@@ -21,7 +21,7 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/taufeeqriyaz/github-stats-transparent'>
+<a href='https://github.com/taufeeqriyaz/'>
   
 ![Stats Overview](https://raw.githubusercontent.com/taufeeqriyaz/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/taufeeqriyaz/github-stats-transparent/output/generated/languages.svg)
