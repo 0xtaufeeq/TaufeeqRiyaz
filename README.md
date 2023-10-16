@@ -49,15 +49,13 @@
   </a>
 </div>
 
-<h1 align="center">📊 Github Stats</h1>
+<a href = "https://linkedin.com/in/taufeeq"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a> <a href = "https://instagram.com/taufeeq_riyaz"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>  <a href = "https://twitter.com/taufeeq_riyaz"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
 
-<div align="center">
-  <a href='https://github.com/taufeeqriyaz/'>
-    <img src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz" alt="Stats Overview" style="border-radius: 8px; margin: 10px;">
-  </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqRiyaz" alt="Most Used Languages" style="border-radius: 8px; margin: 10px;">
-</div>
+<hr>
+⚡ Languages, Tools and Technologies
+<table> <tr> <td><strong>Frontend & Design</strong></td> <td><strong>DevOps & Deployment</strong></td> <td><strong>Version Control</strong></td> <td><strong>Editors</strong></td> </tr> <tr> <td><img src = "https://skillicons.dev/icons?i=js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td> <td><img src = "https://skillicons.dev/icons?i=docker,aws,githubactions,netlify,heroku,vercel,gcp&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark"></td> </tr> </table> <table> <tr> <td><strong>Backend & Databases</strong></td> <td><strong>API & Testing</strong></td> <td><strong>Languages</strong></td> <td><strong>Miscellaneous</strong></td> </tr> <tr> <td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td> </tr> </table> <hr>
+📊 Metrics
+<table> <tr> <td colspan = "2"><a href = "https://taufeeq.bio.link"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TaufeeqRiyaz&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td> </tr> <tr> <td><a href="https://linkedin.com/in/taufeeq"><img src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td> <td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqRiyaz&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td> </tr> <tr> <td colspan = "2"></td> </tr></table>
 
 <h1 align="center">🎵 Now Playing</h1>
 
