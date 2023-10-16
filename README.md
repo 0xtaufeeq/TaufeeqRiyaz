@@ -29,7 +29,7 @@
 <img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark">
+<img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=light">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark">
