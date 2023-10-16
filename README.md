@@ -61,7 +61,7 @@
 <img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark">
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,rust&theme=dark">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark">
