@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/taufeeqriyaz/taufeeqriyaz/master/assets/hello.svg" alt="Hello world" style="border-radius: 8px;">
 </div>
 
+<a href = "https://app.daily.dev/taufeeq"><img align = "right" src="https://api.daily.dev/devcards/00372fc730b14440828cdc28844df81b.png?r=nwx" width="250" alt="Sarthak S Kumar's Dev Card"></a>
+
+
 <h1 align="center">🔨 Languages and Tools:</h1>
 
 <div align="center">
