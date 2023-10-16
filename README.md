@@ -107,12 +107,12 @@
   </a>
 </div>
 
-<h1 align="center">📈 Top Tracks</h1>
+<h1 align="center"></h1>
 
 <table align="center">
   <thead>
     <tr>
-      <th>Track</th>
+      <th>📈 Top Tracks</th>
     </tr>
   </thead>
   <tbody>
