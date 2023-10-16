@@ -26,13 +26,13 @@
 <img src = "https://skillicons.dev/icons?i=js,react,nextjs,redux,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" >
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=dark">
+<img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=light">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=light">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark">
+<img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=light">
 </td>
 </tr>
 </table>
@@ -55,16 +55,16 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark">
+<img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=light">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark">
+<img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=light">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark">
+<img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=light">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark">
+<img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=light">
 </td>
 </tr>
 </table>
