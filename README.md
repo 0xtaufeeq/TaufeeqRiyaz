@@ -113,6 +113,15 @@
       <th>🎵 Now Playing</th>
     </tr>
   </thead>
+  <tbody>
+      <tr>
+      <td align="center">
+        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=1&open">
+          <img src="https://taufeeq-now-playing.vercel.app/top-tracks?i=1" width="540" height="64" alt="Top Track 1" style="border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+  </tbody>
   <thead>
     <tr>
       <th>📈 Top Tracks</th>
