@@ -99,13 +99,7 @@
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://taufeeq-now-playing.vercel.app/now-playing?open">
-    <img src="https://taufeeq-now-playing.vercel.app/now-playing" width="540" height="64" alt="Now Playing" style="border-radius: 8px;">
-  </a>
-</div>
-
-<h1 align="center"></h1>
+## Spotify Stats
 
 <table align="center">
   <thead>
