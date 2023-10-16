@@ -99,7 +99,7 @@
 </tr>
 </table>
 
-## Spotify Stats
+## <img scr="https://skillicons.dev/icons?i=c"> Spotify Stats
 
 <table align="center">
   <thead>
