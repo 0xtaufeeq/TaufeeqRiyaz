@@ -99,8 +99,6 @@
 </tr>
 </table>
 
-<h1 align="center">🎵 Now Playing</h1>
-
 <div align="center">
   <a href="https://taufeeq-now-playing.vercel.app/now-playing?open">
     <img src="https://taufeeq-now-playing.vercel.app/now-playing" width="540" height="64" alt="Now Playing" style="border-radius: 8px;">
@@ -110,6 +108,11 @@
 <h1 align="center"></h1>
 
 <table align="center">
+  <thead>
+    <tr>
+      <th>🎵 Now Playing</th>
+    </tr>
+  </thead>
   <thead>
     <tr>
       <th>📈 Top Tracks</th>
