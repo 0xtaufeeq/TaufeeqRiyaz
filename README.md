@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/taufeeqriyaz/taufeeqriyaz/master/assets/hello.svg" alt="Hello world" style="border-radius: 8px;">
 </div>
 
-<a href = "https://app.daily.dev/taufeeq"><img align = "right" src="https://api.daily.dev/devcards/00372fc730b14440828cdc28844df81b.png?r=nwx" width="250" alt="Sarthak S Kumar's Dev Card"></a>
-
 <hr>
 ⚡ Languages, Tools and Technologies
 <table> <tr> <td><strong>Frontend & Design</strong></td> <td><strong>DevOps & Deployment</strong></td> <td><strong>Version Control</strong></td> <td><strong>Editors</strong></td> </tr> <tr> <td><img src = "https://skillicons.dev/icons?i=js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td> <td><img src = "https://skillicons.dev/icons?i=docker,aws,githubactions,netlify,heroku,vercel,gcp&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark"></td> </tr> </table> <table> <tr> <td><strong>Backend & Databases</strong></td> <td><strong>API & Testing</strong></td> <td><strong>Languages</strong></td> <td><strong>Miscellaneous</strong></td> </tr> <tr> <td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td> <td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td> </tr> </table> <hr>
