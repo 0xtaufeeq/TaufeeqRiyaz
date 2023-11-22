@@ -124,7 +124,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=1&open">
+        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=1&open" target="_blank">
           <img src="https://taufeeq-now-playing.vercel.app/top-tracks?i=1" width="540" height="64" alt="Top Track 1" style="border-radius: 8px;">
         </a>
       </td>
@@ -134,7 +134,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=2&open">
+        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=2&open" target="_blank">
           <img src="https://taufeeq-now-playing.vercel.app/top-tracks?i=2" width="540" height="64" alt="Top Track 2" style="border-radius: 8px;">
         </a>
       </td>
@@ -144,7 +144,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=3&open">
+        <a href="https://taufeeq-now-playing.vercel.app/top-tracks?i=3&open" target="_blank">
           <img src="https://taufeeq-now-playing.vercel.app/top-tracks?i=3" width="540" height="64" alt="Top Track 3" style="border-radius: 8px;">
         </a>
       </td>
