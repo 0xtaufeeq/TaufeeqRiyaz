@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/taufeeqriyaz/taufeeqriyaz/master/assets/hello.svg" alt="Hello world" style="border-radius: 8px;">
+  <img src="./assets/taufeeq.gif" alt="Hello world" style="border-radius: 8px;">
 </div>
 
 <hr>
