@@ -77,19 +77,19 @@
 <tr>
 <td colspan = "2">
 <a href = "https://taufeeq.bio.link">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaufeeqRiyaz&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xtaufeeq&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://linkedin.com/in/taufeeq">
-<img src="https://github-readme-stats.vercel.app/api?username=TaufeeqRiyaz&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api?username=0xtaufeeq&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord">
 </a>
 </td>
 <td>
 <a href="https://wakatime.com/@taufeeq">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqRiyaz&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xtaufeeq&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord">
 </a>
 </td>
 </tr>
